@@ -12,6 +12,7 @@ I specialize in transforming complex data into clear, clean, and compelling visu
 - Python for data cleaning & automation
 - AI tools for faster and smarter data prep
 - Git & GitHub for version control and project sharing
+![Screenshot 2025-05-26 120836](https://github.com/user-attachments/assets/c06f284a-a421-494e-9f9a-e3b9cbc8e974)
 
 ---
 
